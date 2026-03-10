@@ -1,2 +1,2 @@
-# ghost-striker
-Ghost Striker Resmi
+# Dead-Striker
+Dead Striker Resmi
